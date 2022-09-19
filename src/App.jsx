@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 import './App.css'
 import QuoteBox from './components/QuoteBox'
+import TextCard from './components/TextCard.jsx'
 import Quotes from "./quotes.json";
 
 function App() {
